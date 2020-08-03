@@ -1,6 +1,7 @@
 Horiseon Challenge 
 Source code: Xandromus
-/////////////////////////////////////////////////////////////////////////////////////////////
+
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -12,7 +13,8 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-/////////////////////////////////////////////////////////////////////////////////////////////
+
+
 Application's links all function correctly.
 Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 Application's CSS file is properly commented.
@@ -25,3 +27,5 @@ Repository follows best practices for file structure and naming conventions.
 Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 Repository contains multiple descriptive commit messages.
 Repository contains quality README file with description, screenshot, and link to deployed application.
+
+![Horiseon Webpage](Horiseon/assets/images/digital-marketing-meeting.jpg)
